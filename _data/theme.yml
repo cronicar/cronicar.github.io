@@ -1,4 +1,5 @@
 # Theme customization - please change from the defaults!
+# based on the Lagom theme (https://github.com/swanson/lagom) by Matt Swanson (https://mdswanson.com/)
 
 # Color for top bar, links, etc
 highlight_color: '#3498db'
