@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tudor and the seven words
+title: A tale of trust
 categories:
 - blog
 ---
