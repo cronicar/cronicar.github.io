@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Condor conunddrum
+title: Condor conundrum
 categories:
 - blog
 ---
