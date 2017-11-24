@@ -1,0 +1,10 @@
+title: The Squeaky Wheel gets the Grease
+categories:
+title: President Andrew Jackson
+categories:
+- blog
+---
+
+Andrew Jackson was born on March 15 1767. He had quite a tragic childhood. His father died three weeks before he was born. His education was quite sporadic, at age 13 he joined the army during the revolutionary war and served as a courier His older brother died at the battle of the Stono Ferry. He and his other brother Robert were captured and in captivity they got smallpox, after being released Robert died. And in 1779 his mother died of cholera. At age 14 years of age he was an orphan. From then on he was raised by his uncles. In 1787 he became a lawyer. In 1798 he was elected as a supreme court judge. In  1801 he became captain of the Tennesse. During the war of 1812 he won some stunning victories earning him the rank of general. His troops gave him the nickname "Old Hickory" because he "was as tough as old hickory wood". In 1822 he was elected to the state senate and he was nominated for presidency in 1824. Even though he was the most popular candidiate, the House of Representatives had John Quincy Adams elected president if Henry Clay was made secretary of state. This became known as "the corrupt bargain". Jackson formed the Democratic party and in 1828 he ran for president again and won, becoming the 7th president of the United States of America. As his opponents called him a jackass he made the ass the symbol of the Democratic party. He was the first president to use the veto power, and he used it a lot. He earned the nickname "the peoples president" as he believed the people should have the right to elect the president by voting and so he abolished the electoral college. He won the re-election in 1832 as well. But his presidency had its controversies as well as he was responsible for events such as the trail of tears. After serving his second term he returned home and on June 8 1845 he died of lead poisoning due to a bullet stuck in his lung from a duel at 78 years of age.
+
+---
