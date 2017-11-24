@@ -1,5 +1,5 @@
-title: The Squeaky Wheel gets the Grease
-categories:
+---
+layout: post
 title: President Andrew Jackson
 categories:
 - blog
